@@ -532,5 +532,5 @@ var et_pb_box_shadow_elements = [];
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
 
-Served from: santospaintingkc.com @ 2020-05-23 02:41:54 by W3 Total Cache
+Served from: santospaintingkc.com @ 2020-05-23 02:57:54 by W3 Total Cache
 -->
